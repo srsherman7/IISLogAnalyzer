@@ -18,3 +18,9 @@ Once loaded you can resize fields you need to, Sort by clicking the headers, Fil
 Send me any issues and I'll try my best to look into them.
 
 
+**Features:**
+Loads iis log files. parses the #fields line of the log and generates a sortable, searchable, exportable, human reabable data grid. 
+Supports drag & drop of log file. 
+I have a chart that is not usable at the moment, but will be working on adding more visual representaions of the data.
+
+
