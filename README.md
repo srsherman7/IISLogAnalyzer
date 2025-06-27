@@ -1,7 +1,7 @@
 # IISLogAnalyzer
 Tool to Load, filter, sort by header "field", export to CSV for further analysys. 
 ![image](https://github.com/user-attachments/assets/d6644e90-1f9f-4578-85d8-0a310de9441d)
-**Intructions:**
+**Instructions:**
 Download the Release package (zip)
 https://github.com/srsherman7/IISLogAnalyzer/blob/master/IISLogAnalyzer-release.zip
 Extract to a folder (preferably you have full access to)
